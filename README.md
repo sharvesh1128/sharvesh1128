@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharvesh1128
-- 👀 I’m interested in Game development 
+- 👀 I’m interested in Game development | Backend Development | Agentic AI
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on multiple game developers
 - 📫 To reach me on sharveshtmt@gmail.com 
